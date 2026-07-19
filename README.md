@@ -16,9 +16,7 @@ Fue desarrollado utilizando **Vue.js** y **Bootstrap**.
 
 ## Instalación y ejecución
 1. Clonar el repositorio:
-   ```bash
    git clone https://github.com/cesarmunozs1986/FrontendProyectofinal.git
-=======
-# FrontendProyectofinal
-PROGRAMACIÓN FRONTEND
->>>>>>> 627b53f83a566dc1688f919c87fb7c93f61701cc
+
+
+
